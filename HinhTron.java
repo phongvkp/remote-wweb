@@ -3,8 +3,8 @@ package com.shape;
 class HinhTron implements IHinhHoc {
 	private double rad;
 	
-	public HinhTron(double r) {
-		this.rad = r;
+	public HinhTron(double rm) {
+		this.rad = rm;
 	}
 	
 	@Override
